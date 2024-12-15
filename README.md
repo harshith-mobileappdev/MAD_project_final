@@ -18,6 +18,12 @@ Safety and Assistance: Features like live location sharing, emergency contacts, 
 Reviews and Tips: Access to traveler reviews, tips, and user-generated content to make informed decisions during the trip.
 The Travel Buddy App is ideal for solo travelers, groups, or families, offering a blend of convenience, connectivity, and discovery to make travel more enjoyable and stress-free.
 
+Presentation Video:
+https://docs.google.com/presentation/d/1QIsDycZieb0-MCzjL1s2tX6hJ6cu506y/edit#slide=id.p7
+
+Youtube links
+https://youtu.be/XoEvOOmMhLc
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
